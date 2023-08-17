@@ -1,0 +1,4 @@
+show run
+show log
+show int status
+wr
